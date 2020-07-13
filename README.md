@@ -1,7 +1,8 @@
 ### legoo
 > 前端可视化搭建
 
-此项目用来研究初探前端可视化搭建,已同步发布至npm
+此项目用来研究初探前端可视化搭建,已同步发布至npm.
+[click here to push to npm](https://www.npmjs.com/package/legoo)
 
 ```javascript
 //you can use npm to install this package
