@@ -1,0 +1,25 @@
+{
+  "name": "legoo",
+  "version": "1.0.0",
+  "description": "前端可视化搭建初探",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplaycodex/legoo.git"
+  },
+  "keywords": [
+    "前端可视化搭建",
+    "前端工程化",
+    "前端",
+    "工程化"
+  ],
+  "author": "iplaycodex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iplaycodex/legoo/issues"
+  },
+  "homepage": "https://github.com/iplaycodex/legoo#readme"
+}
